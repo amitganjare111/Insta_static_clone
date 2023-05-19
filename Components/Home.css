@@ -1,0 +1,82 @@
+.card{
+    margin-left:280px;
+    margin-right:320px;
+}
+
+.main-background{
+    background-color: rgb(248, 248, 248);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+
+.circle{
+    width:65px;
+    height: 65px;
+    border-radius: 50%;
+    color: white;
+    margin-right: 10px;
+    background-size: cover;
+    background-image: url("./Images/avatar.jpg"); 
+}
+
+.circle-row{
+    float:left; 
+    display:flex;
+    margin-left: 0px;
+}
+
+.post-circle{
+    width:31px;
+    height: 31px;
+    border-radius: 50%;
+    color: white;
+    background: rgb(231, 231, 231);
+    background-size: cover;  
+    background-image: url("./Images/avatar.jpg");  
+}
+
+.img{
+    background-image: url("./Images/nature.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    height:500px
+}
+/* bottom like, comment, send button property*/
+.bottom-icon{
+    font-size: 22px;
+    margin-right: 15px;
+    color:black;
+}
+
+/* for post save button*/
+.float{
+    font-size: 22px;
+    color:black;
+    margin-left: 340px;
+}
+
+/* for corner three dot */
+.float1{
+    color:rgb(95, 92, 92);
+    margin-left: 300px;
+}
+
+
+/*for Multiple Images */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  
+.img11 { 
+    width: 230px;
+    height: 200px;
+    margin: 1px;
+  }

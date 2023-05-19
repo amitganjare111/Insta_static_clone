@@ -1,0 +1,61 @@
+/* left side image property*/
+.slider-area{
+    background-image: url("./Images/log.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: 175px;
+    height: 550px;
+    width:1000px;
+}
+
+.new{
+    display: flex;
+    flex-direction: row;
+}
+
+/* Logo property*/
+.logo2{
+    background-image: url("./Images/logo.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    height: 50px;
+    width: 200px;
+}
+
+.area1{
+    width:900px;
+    margin-left: 300px;
+}
+/* forgot password size */
+.size1{
+    font-size: 14px;
+    margin-left:100px;
+    margin-bottom:10px;
+    margin-bottom: 25px;
+    color:midnightblue
+}
+
+/* horizontal line*/
+.line{
+    width: 85%; 
+    text-align: center;
+    border-bottom: 1px solid #0002; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+     } 
+     
+ .line2{ 
+         background:#fff; 
+         padding:0 10px; 
+     }
+
+.btn{
+        border-radius: 8px;
+        font-weight:550;
+        background-color: rgb(94, 187, 241);
+        color:floralwhite
+}
+
+.signup-weight{
+    font-weight:550;
+}

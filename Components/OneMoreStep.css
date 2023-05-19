@@ -1,0 +1,41 @@
+.alert{
+    background-image: url("./Images/alert.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    height: 138px;
+    width: 285px;
+    margin-left: 100px;
+}
+
+.one-more-step{
+    font-size:16px;
+    text-align: center;
+    color:rgb(82, 78, 78);
+    font-weight: 500;
+}
+
+.enter-code{
+    font-size:14px;
+    text-align: center;
+    color:rgb(22, 21, 21);
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.change-number-anchor{
+    text-align: center;
+    font-weight: 600;
+    font-size:14px;
+}
+
+.btn{
+    border-radius: 8px;
+    font-weight:550;
+    background-color: rgb(94, 187, 241);
+    color:floralwhite
+}
+
+.area3{
+    width:950px;
+}

@@ -1,0 +1,68 @@
+.Birthdaylogo{
+    background-image: url("./Images/birthday.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    height: 105px;
+    width: 285px;
+    margin-left: 100px;
+}
+
+/* Add your birthday */
+ .addBirth{
+    font-size:16px;
+    text-align: center;
+    color:rgb(82, 78, 78);
+    font-weight: 500;
+ }
+
+ /* below line of add your birthday*/
+ .publicProfile{
+    font-size:14px;
+    text-align: center;
+    color:rgb(82, 78, 78);
+    margin-top: 10px;
+ }
+
+ /* why do i need to provide birthday*/
+ .why{
+    font-size:14px;
+    text-align: center;
+    margin-top: 1px;
+ }
+
+ .dropdown{
+    width:227px;
+ }
+
+ .need-to-enter{
+    font-size:13px;
+    text-align: center;
+    margin-top: 4px;
+    color:rgb(126, 122, 122);
+ }
+
+ .own-birthday{
+    font-size:13px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 6px;
+    margin-right: 6px;
+    color:rgb(126, 122, 122);
+ }
+
+ .go-back{
+    text-align: center;
+    font-weight: 600;
+    font-size:14px;
+ }
+
+ .btn{
+   border-radius: 8px;
+   font-weight:550;
+   background-color: rgb(94, 187, 241);
+   color:floralwhite
+}
+
+.area4{
+   width:950px;
+}
